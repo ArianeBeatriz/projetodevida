@@ -32,7 +32,7 @@ body {
 }
 
 .titulo-principal {
-    text-align: left;
+    text-align: left;ariane.rodrigues.lara@escola.pr.gov.br
     width: 100%;
     font-size: 32px;
 }
@@ -88,4 +88,11 @@ body {
                 border-radius: 0 40px 0 0;
             }
         }
+        
+        .ativo{
+            background-color: var(--botao-ativo);
+            border-bottom: 4px solid var(--verde);
+        }
+
+        
         
