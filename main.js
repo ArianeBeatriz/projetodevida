@@ -70,5 +70,5 @@ function calculaTempo(tempoObjetivo) {
         return "Prazo Finalizado";
     }
 
-}
+
 
